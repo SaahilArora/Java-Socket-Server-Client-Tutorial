@@ -1,4 +1,3 @@
-package com.barcode.rfd.Adapter;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
@@ -7,9 +6,6 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.HashMap;
 
-/**
- * Created by prashant.chaudhary on 7/1/2016.
- */
 public class Server{
 
     public static void main(String args[]) {

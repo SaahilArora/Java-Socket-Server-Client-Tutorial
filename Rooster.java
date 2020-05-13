@@ -1,14 +1,9 @@
-package com.barcode.rfd.Adapter;
-
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.Socket;
 import java.util.Scanner;
 
-/**
- * Created by prashant.chaudhary on 5/8/2017.
- */
 public class Rooster {
 
 
